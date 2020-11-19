@@ -10,7 +10,7 @@ image:
   # name: test
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "v2"
+  tag: "v1"
 
 imagePullSecrets: []
 nameOverride: "test-website"
